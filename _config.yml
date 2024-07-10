@@ -30,6 +30,7 @@ twitter_username: azagappan
 github_username:  azagappan
 
 # Build settings
+# commeting the below code for intiating the build
 #theme: minima
 remote_theme: "mmistakes/minimal-mistakes"
 plugins:
